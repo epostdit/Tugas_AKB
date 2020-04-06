@@ -37,10 +37,10 @@
             android:layout_marginEnd="0dp"
             android:layout_marginRight="0dp"
             android:layout_marginBottom="0dp"
-            android:background="@drawable/custom_button"
-            android:text="Mulai"
-            android:textColor="#FFFFFF"
-            android:textSize="19dp" />
+            android:background="@drawable/custom_button1"
+            android:text="Beli Kode Keluarga Disini"
+            android:textColor="#000"
+            android:textSize="16dp" />
 
     </LinearLayout>
 
@@ -101,7 +101,7 @@
         android:background="@drawable/custom_button"
         android:text="Masuk"
         android:textAllCaps="false"
-        android:textColor="#FFFFFF"
+        android:textColor="#000"
         android:textSize="19dp" />
 
 </RelativeLayout>

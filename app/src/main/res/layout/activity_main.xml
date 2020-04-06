@@ -28,7 +28,7 @@
             android:background="@drawable/custom_button"
             android:text="Mulai"
             android:textAllCaps="false"
-            android:textColor="#FFFFFF"
+            android:textColor="#000"
             android:textSize="19dp" />
     </LinearLayout>
 
@@ -42,7 +42,7 @@
         android:layout_centerInParent="true"
         android:layout_marginStart="98dp"
         android:layout_marginLeft="98dp"
-        android:layout_marginTop="200dp"
+        android:layout_marginTop="158dp"
         android:contentDescription="TODO"
         app:layout_constraintBottom_toTopOf="@+id/linearLayout"
         app:layout_constraintEnd_toEndOf="parent"
@@ -58,9 +58,9 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentTop="true"
         android:layout_centerInParent="true"
-        android:layout_marginStart="84dp"
-        android:layout_marginLeft="84dp"
-        android:layout_marginTop="265dp"
+        android:layout_marginStart="75dp"
+        android:layout_marginLeft="75dp"
+        android:layout_marginTop="226dp"
         android:fontFamily="sans-serif"
         android:text="Monitory Membantu Anda Mengontrol HP Anak"
         android:textSize="22dp"
