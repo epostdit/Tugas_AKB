@@ -10,7 +10,7 @@ class Menu2 : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_menu2)
-        button = findViewById(R.id.Button2)
+        button = findViewById(R.id.Button3)
         button.setOnClickListener {
             startActivity(Intent(this, Menu3::class.java))
         }
